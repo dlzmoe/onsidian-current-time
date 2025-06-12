@@ -60,4 +60,4 @@ https://github.com/user-attachments/assets/9a41e613-7b5c-4bd5-a6b8-5ae36660e01c
 
 ## 许可证
 
-[MIT](LICENSE)
+[Apache-2.0 license](LICENSE)
