@@ -2,6 +2,8 @@
 
 Current Time Inserter（当前时间插入器）是一个简单的 Obsidian 插件，用于快速插入当前时间。
 
+https://github.com/user-attachments/assets/9a41e613-7b5c-4bd5-a6b8-5ae36660e01c
+
 ## 功能
 
 - 输入斜杠 `/` 后可以选择 `time` 命令快速插入当前时间
