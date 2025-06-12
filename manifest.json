@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-current-time",
+	"name": "Current Time Inserter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "插入当前时间的Obsidian插件，使用斜杠命令输入当前时间",
+	"author": "Claude",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
