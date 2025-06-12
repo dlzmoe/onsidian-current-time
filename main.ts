@@ -25,7 +25,7 @@ export default class CurrentTimePlugin extends Plugin {
 			name: '插入当前时间',
 			editorCallback: (editor: Editor) => {
 				const currentTime = this.getCurrentTime();
-				editor.replaceSelection(`*${currentTime}*`);
+				editor.replaceSelection(`${currentTime} `);
 			}
 		});
 
@@ -116,7 +116,7 @@ class CurrentTimeSuggester extends EditorSuggest<string> {
 		
 		// 替换触发文本为当前时间，并用星号包裹
 		editor.replaceRange(
-			`*${currentTime}*`,
+			`${currentTime}`,
 			this.context.start,
 			this.context.end
 		);
